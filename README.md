@@ -1,4 +1,4 @@
-# Introduction to Computer Science - Spring 2017
+# Introduction to Computer Science - Fall 2017
 ## Lab 1 - You need to Git
 
 **Purpose:** This purpose of this lab is to get some practice with basic _HTML_ and the basics of the _Git Version Control System (VCS)_. The assignment has two parts. The HTML part and the git part.
