@@ -3,12 +3,18 @@
 
 **Purpose:** This purpose of this lab is to get some practice with basic _HTML_ and the basics of the _Git Version Control System (VCS)_. The assignment has two parts. The HTML part and the git part.
 
-**Part 1 - Instructions:** Create a basic HTML file. It should be an informative page about an animal of your choice (real or fictional). The HTML file will include the most important structural elements, including:
+**Assumptions:** This assignment assumes that you have already set up a Cloud9 account using the class link and linked it to your GitHub account.
+
+**Part 1 - Cloning the Repository:** Clone this repository into a new workspace in your [Cloud9](https://c9.io/) account. Once you are in your workspace, continue on to the next part.
+
+**Part 2 - Instructions:** Create a basic HTML file called `index.html`. It should be an informative page about an animal of your choice (real or fictional). The HTML file must include the most important structural elements, including:
 
 * Doctype declaration
 * &lt;html&gt; angle tags
 * &lt;head&gt; tags with typical title and meta-data tags
 * &lt;body&gt; tags with content using appropriate markup.
+
+Look at the [HTML Demos](itech190.erickuha.com) and their source code (Ctrl-U) for ideas of how this should look.
 
 Other tags that the page should demonstrate:
 * &lt;h1&gt; at least one heading tag
@@ -16,7 +22,7 @@ Other tags that the page should demonstrate:
 * &lt;p&gt; paragraph tags where appropriate
 * &lt;img&gt; tag and an image (the actual image file can be a link to another page, or a local file in the same folder)
 
-When the page is completed, ensure that you push it back to your repository using the method of your choice. If you have set up a GUI GitHub client on your computer, you should have no trouble uploading it to your repository. However, if you are using a command shell like PowerShell (Windows) or Bash (Linux), then the commands are as follows:
+Once you are finished, if you are in your Cloud9 workspace, you can push your changes to the repository by entering the following commands into the terminal at the bottom of the workspace:
 
 `````
     $ git add --all
