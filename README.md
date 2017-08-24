@@ -14,7 +14,7 @@
 * &lt;head&gt; tags with typical title and meta-data tags
 * &lt;body&gt; tags with content using appropriate markup.
 
-Look at the [HTML Demos](itech190.erickuha.com) and their source code (Ctrl-U) for ideas of how this should look.
+Look at the [HTML Demos](http://itech190.erickuha.com/) and their source code (Ctrl-U) for ideas of how this should look.
 
 Other tags that the page should demonstrate:
 * &lt;h1&gt; at least one heading tag
